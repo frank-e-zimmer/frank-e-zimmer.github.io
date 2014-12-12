@@ -1,6 +1,6 @@
 
 body {
-    background-image: url("pictures/FrankTraquir(R).JPG");
+    background: black url("pictures/FrankTraquir(R).JPG") right;
     background-repeat: no-repeat;
 }
 
