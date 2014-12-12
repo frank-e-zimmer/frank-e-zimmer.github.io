@@ -1,6 +1,7 @@
 
 body {
-    background-color: rgba(41, 170, 150, 0.5)
+    background-image: url("pictures/FrankTraquir(R).JPG");
+    background-repeat: no-repeat;
 }
 
 h1 {
