@@ -1,4 +1,4 @@
 webpage-frank
 =============
 
-Repository for the webpage www.frank-zimmer.de.
+Repository for the webpage www.frankzimmer.net.
